@@ -74,7 +74,7 @@ class More extends StatelessWidget {
                           SizedBox(
                             width: 6,
                           ),
-                          Text("anjalishrestha024@gmail.com")
+                          Text("shresthaanjali049@gmail.com")
                         ],
                       ),
                     ],
